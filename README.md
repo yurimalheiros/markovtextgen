@@ -5,7 +5,7 @@ Markov Text Generator
 
 Import the module.
 
-```
+```python
 from textgen import TextGenerator
 ```
 
