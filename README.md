@@ -1,7 +1,7 @@
 Markov Text Generator
 =====================
 
-## How to use:
+## How to use
 
 Import the module.
 
